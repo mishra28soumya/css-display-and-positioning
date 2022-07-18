@@ -1,0 +1,16 @@
+div{
+    position: relative;
+    left:500px;
+}
+#p1{
+    /* position: relative; */
+    position: fixed;
+    left: 0px;
+}
+#btn1{
+    background-color:blueviolet;
+}
+
+#btn2{
+    background-color:tomato;
+}
