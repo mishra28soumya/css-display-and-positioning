@@ -1,0 +1,10 @@
+#btn1{
+    background-color:blueviolet;
+    position: relative;
+    top:50px;
+    left:50px
+}
+
+#btn2{
+    background-color:tomato;
+}
