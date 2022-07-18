@@ -1,0 +1,17 @@
+div{
+    position: relative;
+    left:500px;
+}
+#p1{
+    /* position: relative; */
+    position: fixed;
+    left: 0px;
+    color:aqua;
+    z-index:2
+}
+#p2{
+    /* position: relative; */
+    position: fixed;
+    left: 0px;
+    z-index: 1
+}
