@@ -1,0 +1,14 @@
+h1{
+    display: inline;
+}
+em{
+    display: block;
+}
+
+#div1{
+    /* display:inline; */
+    display: inline-block;
+    background-color: chocolate;
+    width: 1000px;
+}
+

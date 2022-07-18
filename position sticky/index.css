@@ -1,0 +1,14 @@
+#p{
+    background-color: antiquewhite;
+    height: 2000px;
+}
+
+#c1{
+    background-color: aquamarine;
+    position:sticky;
+    top:0px
+}
+
+#c2{
+    background-color: tomato;
+}
